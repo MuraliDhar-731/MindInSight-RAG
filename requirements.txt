@@ -1,0 +1,12 @@
+datasets
+transformers
+sentence-transformers
+faiss-cpu
+torch
+gradio
+fastapi
+uvicorn
+numpy
+pandas
+tqdm
+accelerate
